@@ -13,8 +13,7 @@ We conduct some exploratory data analysis with visualizations. We can examine se
 
 We examine the sex categorical variable using simple bar plots. The data confirms that the scientist have trouble identifying the younger abalone's gender. 
 
- 
- ## Analysis 
+## Analysis 
  
 In the PCA Analysis, we find that most of the variance (90%) can be explained by one transformed variable. 
  
