@@ -1,7 +1,7 @@
 # Abalones Age
 
 In this notebook we will be looking at abalones data set from UCI
-The dataset and description can be found here. https://archive.ics.uci.edu/ml/datasets/Abalone
+The dataset and description can be found [here](https://archive.ics.uci.edu/ml/datasets/Abalone)
 
 The goal is to predict which age category an observation belongs to based on the information given. 
 There are 4177 observations with 7 given variables. The age can be determined by the number of Rings. 
